@@ -43,4 +43,4 @@ For any questions or inquiries about this project, please contact:
 - Mail: paridhiarya22@gmail.com, paridhi.a21@iiits.in
 - Socials: Linked in Github profile
 
-I appreciate your interest and contributions to the Color and Weight Sensing Object Sorting Model. Thank you!
+I appreciate your interest and contributions to the Stock Analysis Assignment from Coursera. Thank you!
